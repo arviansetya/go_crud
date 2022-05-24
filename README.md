@@ -1,10 +1,10 @@
-## CRUD GO + GORM + MYSQL 
+## CRUD GO ECHO + GORM + MYSQL 
 
 
 ## HOW TO START
 ```
 #Install GO
-Create Project
+#Create Project
 mkdir crud
 cd crud
 go mod init crud
